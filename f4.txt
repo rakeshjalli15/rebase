@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi i am bec student
+=======
+i am aiml student
+>>>>>>> c539fbe (commit6)
